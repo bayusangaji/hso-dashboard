@@ -2,6 +2,8 @@ Aplikasi hso rencana proyek
 
 - PHP
   * versi 7.2
+  * Framework
+    ^ Laravel
 - MySQL
   * versi 5.4
 - Jenkins
@@ -9,5 +11,8 @@ Aplikasi hso rencana proyek
 - NodeJS
 - PostgreSQL
 - Javascript
+  * Framework
+    ^ AngularJS
+    ^ ReactJS
 - API
 - solving problem bugs error by server maupun code
