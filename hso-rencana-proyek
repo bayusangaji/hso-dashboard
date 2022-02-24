@@ -1,9 +1,12 @@
-hso rencana proyek
+Aplikasi hso rencana proyek 
 
-PHP
-MySQL
-Jenkins
-VueJS
-NodeJS
-PostgreSQL
-Javascript
+- PHP
+  * versi 7.2
+- MySQL
+  * versi 5.4
+- Jenkins
+- VueJS
+- NodeJS
+- PostgreSQL
+- Javascript
+- API
