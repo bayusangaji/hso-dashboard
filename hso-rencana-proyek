@@ -7,10 +7,11 @@ Aplikasi hso rencana proyek
 - MySQL
   * versi 5.4
 - Jenkins
-- NodeJS
 - PostgreSQL
 - Javascript
  * Framework
    ^ VueJS
+   ^ NodeJS
+   ^ ReactJS
 - API
 - solving problem bugs error by server maupun code
